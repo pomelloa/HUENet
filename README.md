@@ -1,4 +1,4 @@
-# HUE
+# HUENet
 
 **A novel multimodal fusion deep network for identifying hillside urban expansion**
 
